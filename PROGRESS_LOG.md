@@ -9,19 +9,19 @@ Starting fresh! One day at a time.
 | Day 3  | Loops - for and while         | 2026-07-08 | YES |
 | Day 4  | Lists and Tuples              | 2026-07-09 | YES |
 | Day 5  | Dictionaries and Sets         | 2026-07-10 | YES |
-| Day 6  | Functions                     | 2026-07-14 | YES |
-| Day 7  | File Handling                 | 2026-07-14 | YES |
-| Day 8  | OOP - Classes                 |            |     |
-| Day 9  | Error Handling                |            |     |
-| Day 10 | Mini Project - Pure Python    |            |     |
-| Day 11 | NumPy                         |            |     |
-| Day 12 | Pandas                        |            |     |
-| Day 13 | Matplotlib and Seaborn        |            |     |
-| Day 14 | Machine Learning Basics       |            |     |
+| Day 6  | Functions                     | 2026-07-11 | YES |
+| Day 7  | File Handling                 | 2026-07-11 | YES |
+| Day 8  | OOP - Classes                 | 2026-07-24 | YES |
+| Day 9  | Error Handling                | 2026-07-24 | YES |
+| Day 10 | Mini Project - Finance Tracker| 2026-07-24 | YES |
+| Day 11 | NumPy                         | 2026-07-24 | YES |
+| Day 12 | Pandas                        | 2026-07-24 | YES |
+| Day 13 | Matplotlib and Seaborn        | 2026-07-24 | YES |
+| Day 14 | Machine Learning Basics       | 2026-07-24 | YES |
 | Day 15 | Your Own DS Project           |            |     |
 
 ---
 
-Progress: 7 out of 15 complete - 47% done!
+Progress: 14 out of 15 complete - 93% done!
 One concept a day. Consistent beats intense.
 Built by Vishvi - github.com/vishvi31
